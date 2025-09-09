@@ -42,3 +42,4 @@ AI Engineering | Product Development |
 📆 [Book a 15-minute meeting](https://calendar.app.google/GYNwok2ryAaWjz2M7)  
 
 [![Email](https://img.shields.io/badge/Email-mr@marcinros.net-white?logo=gmail&style=flat)](mailto:mr@marcinros.net)
+
