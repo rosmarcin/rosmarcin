@@ -4,6 +4,9 @@ AI Engineering | Product Development |
 🚀 Technology consultant, systems architect, and engineer with 20+ years of experience designing and delivering large-scale platforms across enterprise, cloud, and AI.  
 
 🔧 I work at the intersection of **systems engineering, cloud infrastructure, and applied AI**, helping organizations move from complex legacy systems to modern, scalable architectures.  
+ 
+🔧 I help teams validate ideas with technology — from feasibility studies and PoCs to MVPs and scalable platforms. My focus: AI, cloud, and data systems.
+
 
 ## 🔭 Current Focus
 - AI-driven architectures and systems design (RAG, LLM agents, generative AI systems)  
