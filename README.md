@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**rosmarcin/rosmarcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Roles**:
 
-Here are some ideas to get you started:
+- Founder of Synthetic Systems [SynthetikSystems-AI](https://synthetiksystems.ai)
+- Co-Founder of SensID [SensID](https://sensid.pl)
+- Technology Advisor | Founding CTO (Interim)  [HRobots](https://hrobots.eu/)
+- Technology Advisor [FastOnboarding](https://www.fastonboarding.eu/)
+- Technology Advisor [WeImpact](https://www.weimpact.ai/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Product development , product roadmap and  product spin-offs
+
+
+📆 [Book a 15-minute meeting](https://calendar.app.google/GYNwok2ryAaWjz2M7)  
+
+[![Email](https://img.shields.io/badge/Email-mr@marcinros.net-white?logo=gmail&style=flat)](mailto:mr@marcinros.net)
